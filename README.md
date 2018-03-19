@@ -17,7 +17,7 @@ WJHModernLib is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'UIButton+Blocks',:git => 'https://gitee.com/kamerasui/UIButton-Blocks.git'
+pod 'UIButton+Blocks',:git => 'https://github.com/KameraSui/UIButton-Blocks.git'
 ```
 
 ## Author
